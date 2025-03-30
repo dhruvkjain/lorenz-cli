@@ -1,7 +1,13 @@
 [package]
-name = "lorenz"
+name = "lorenz-cli"
 version = "0.1.0"
 edition = "2024"
+description = "Plots lorenz attractor in terminal."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/dhruvkjain/lorenz-cli"
+documentation = "https://docs.rs/lorenz-cli"
+keywords = ["rust", "plot", "lorenz"]
+categories = ["science", "visualization"]
 
 [dependencies]
 crossterm = "0.28.1"
