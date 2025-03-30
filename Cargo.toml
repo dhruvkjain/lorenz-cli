@@ -8,6 +8,7 @@ repository = "https://github.com/dhruvkjain/lorenz-cli"
 documentation = "https://docs.rs/lorenz-cli"
 keywords = ["rust", "plot", "lorenz"]
 categories = ["science", "visualization"]
+readme = "README.md"
 
 [dependencies]
 crossterm = "0.28.1"
